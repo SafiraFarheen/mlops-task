@@ -1,0 +1,20 @@
+2026-02-21 22:50:35,954 - INFO - Job started
+2026-02-21 22:50:35,955 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 22:50:35,974 - INFO - Data loaded: 10000 rows
+2026-02-21 22:50:35,977 - INFO - Rolling mean calculated with window=5
+2026-02-21 22:50:35,977 - INFO - Signals generated
+2026-02-21 22:50:35,978 - INFO - Metrics: signal_rate=0.4971, rows_processed=10000
+2026-02-21 22:50:35,978 - INFO - Job completed successfully in 24ms
+2026-02-21 22:53:07,348 - INFO - Job started
+2026-02-21 22:53:07,349 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 22:53:07,349 - ERROR - Error occurred: Input CSV file not found.
+2026-02-21 23:07:06,514 - INFO - Job started
+2026-02-21 23:07:06,516 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 23:07:06,517 - ERROR - Error occurred: Input CSV file not found.
+2026-02-21 23:07:27,622 - INFO - Job started
+2026-02-21 23:07:27,623 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 23:07:27,647 - INFO - Data loaded: 10000 rows
+2026-02-21 23:07:27,652 - INFO - Rolling mean calculated with window=5
+2026-02-21 23:07:27,653 - INFO - Signals generated
+2026-02-21 23:07:27,654 - INFO - Metrics: signal_rate=0.4971, rows_processed=10000
+2026-02-21 23:07:27,654 - INFO - Job completed successfully in 32ms
