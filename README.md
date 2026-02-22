@@ -140,8 +140,8 @@ The pipeline is fully deterministic. Running it multiple times with the same
 - Deterministic computation via seeded randomness
 - Containerized execution for environment reproducibility
 - Clear logging for observability
-
-  ## CI Validation
+  
+## CI Validation
   Docker build and container execution are automatically validated via GitHub Actions.
   
   Workflow file:
