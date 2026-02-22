@@ -95,7 +95,7 @@ After a successful run, `metrics.json` will contain:
   "rows_processed": 10000,
   "metric": "signal_rate",
   "value": 0.4971,
-  "latency_ms": 13,
+  "latency_ms": 126,
   "seed": 42,
   "status": "success"
 }
